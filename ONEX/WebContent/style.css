@@ -1,0 +1,49 @@
+body 
+{
+  background-color: #f8f9d2;
+  background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+  min-height: 100%;
+  overflow-x: hidden;
+}
+
+.c1
+{
+    background: #200122;
+    background: -webkit-linear-gradient(to right, #200122, #6f0000); 
+    background: linear-gradient(to right, #200122, #6f0000);
+    color:white;
+    height: 100vh;
+    box-shadow: 3px 3px 10px grey;
+    postion:fixed;
+}
+.btn
+{
+  border: none;
+}
+.title
+  {
+    background: linear-gradient(60deg, #ffa726, #fb8c00);
+    box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 10px -5px rgba(233, 0, 0, 0.4);
+    padding-top:17px;
+    padding-left: 15px;
+    font-size: 21px;
+    border-radius: 4px;
+    margin-left:15px;
+    width:40%;
+  }
+  .card {
+
+  box-shadow: 10px 10px 5px grey;
+}
+.s1
+{
+background-color: #42378f;
+background-image: linear-gradient(315deg, #42378f 0%, #f53844 74%);
+padding: 18px;
+}
+.h1 {
+  font-size: 65	px;
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
